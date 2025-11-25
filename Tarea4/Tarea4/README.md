@@ -4,7 +4,7 @@ Aplicación de escritorio desarrollada en **Java Swing** que permite gestionar u
 inicio de sesión, registro de nuevos usuarios y administración (listado, actualización y eliminación).
 
 ## Estructura del proyecto
-
+```
 src/
 └── main/
     └── java/
@@ -27,7 +27,7 @@ src/
         │   └── Panel.java
         │
         └── README.md
-
+```
 - `App.java`  
   Punto de entrada de la aplicación. Inicializa y muestra la ventana de login.
 
@@ -87,3 +87,4 @@ src/
 
 - El panel principal declara el repositorio como tipo `UsuarioRepository`:
     private UsuarioRepository repo;
+
