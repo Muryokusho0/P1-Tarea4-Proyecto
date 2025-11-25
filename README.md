@@ -6,8 +6,10 @@ inicio de sesión, registro de nuevos usuarios y administración (listado, actua
 ## Estructura del proyecto
 
 src/
-└── main/
-    └── java/
+└── 
+main/
+
+		└── java/
         ├── App.java
         │
         ├── Conexion/
